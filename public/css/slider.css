@@ -1,0 +1,39 @@
+header {
+      height: 100vh;
+  background-image: url(https://images.unsplash.com/photo-1453486140354-a56fcc4bbfd5?crop=entropy&fit=crop&fm=jpg&h=650&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=1375);
+      background-size: cover;
+
+
+  background-position: center;
+  
+    margin-bottom: 50px;
+  
+  display: -webkit-box;
+    
+    display: -webkit-flex;
+    display: -ms-flexbox;
+
+  display: flex;
+
+  -webkit-box-orient: vertical;
+
+  -webkit-box-direction: normal;
+
+  -webkit-flex-direction: column;
+
+      -ms-flex-direction: column;
+
+          flex-direction: column;
+          
+  -webkit-box-pack: center;
+
+    -webkit-justify-content: center;
+
+        -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+}
